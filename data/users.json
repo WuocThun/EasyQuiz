@@ -1,0 +1,11 @@
+{
+  "userType": "Premium",
+  "_id": "61403e8fa8524b0019c83a3e",
+  "email": "huytpkpd06244@fpt.edu.vn",
+  "premium": {
+    "plan": "Premium",
+    "iatDate": "2022-03-28T16:19:51.303Z",
+    "expDate": "2099-04-16T00:00:00.000Z",
+    "isGift": 1
+  }
+}
